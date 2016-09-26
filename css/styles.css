@@ -1,0 +1,13 @@
+
+svg {
+	height: auto;
+	width: 50%;
+}
+
+circle {
+	opacity: .35;
+}
+
+circle:hover {
+	opacity: 1;
+}
